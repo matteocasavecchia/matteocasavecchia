@@ -3,10 +3,10 @@
 *Product owner and IT manager. Bridging strategy and engineering across
 industrial and humanitarian systems.*
 
-Twenty years in enterprise IT — leading digital transformation programs,
+Twenty years in enterprise IT; leading digital transformation programs,
 designing data-driven and AI-ready architectures, deploying ERP and cloud
 platforms in mission-critical environments. Currently focused on **Supply
-Open Sky**, autonomous infrastructure for underserved communities — a
+Open Sky**, autonomous infrastructure for underserved communities: a
 network of solar-powered nodes providing drone delivery and mesh
 communication as permanent local services.
 
@@ -19,8 +19,8 @@ communication as permanent local services.
 Supply Open Sky is an integrated drone delivery system for communities that
 lack reliable access to potable water, medicines, and emergency
 communication. The architecture combines a tree-topology mesh of
-solar-powered Nodes with autonomous drones operating in two Flight Modes —
-scheduled cycles and on-demand missions — controlled by a Hub-centric system
+solar-powered Nodes with autonomous drones operating in two Flight Modes:
+scheduled cycles and on-demand missions; controlled by a Hub-centric system
 with graceful degradation.
 
 The project is currently in active pilot deployment, with a first
@@ -36,17 +36,17 @@ documentation is open and available.
 
 ## What I work on
 
-My work spans the full lifecycle of complex technical programs — from
+My work spans the full lifecycle of complex technical programs: from
 strategy and architecture to deployment and operations.
 
-- **Program leadership and product ownership** — cross-functional teams,
+- **Program leadership and product ownership** cross-functional teams,
   international vendors, agile methodologies (Scrum, Kanban), technology
   roadmaps and KPI monitoring across enterprise and industrial environments.
-- **System architecture and integration** — data-driven and AI-ready
+- **System architecture and integration** data-driven and AI-ready
   architectures, ERP platforms (Microsoft Dynamics 365), cloud
   infrastructure (Azure, Docker, CI/CD pipelines), REST APIs and full-stack
   integration.
-- **Field hardware and operational engineering** — Raspberry Pi class
+- **Field hardware and operational engineering** Raspberry Pi class
   devices, ArduPilot / PX4 flight controllers, LoRa-based mesh (Reticulum
   stack), Linux deployment and systemd services for on-site hardening.
 
@@ -57,4 +57,4 @@ another person on the team can pick up six months later.
 
 ## How to reach me
 
-- **LinkedIn** — [linkedin.com/in/casavecchia](https://www.linkedin.com/in/casavecchia/)
+- **LinkedIn** [linkedin.com/in/casavecchia](https://www.linkedin.com/in/casavecchia/)
